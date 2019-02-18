@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Question Time</string>
+    <string name="facebook_app_id">163719090997459</string>
+    <string name="fb_login_protocol_scheme">fb111257327697</string>
+</resources>
